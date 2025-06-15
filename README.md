@@ -5,8 +5,9 @@ This project is focused on detecting skin diseases in animals such as dogs, cats
 ---
 
 Models Used
+
 •	Feature Extractor: MobileNetV2 (pre-trained on ImageNet)
-•	Classifiers:
+•	Classifiers
 o	Random Forest
 o	Logistic Regression
 o	Support Vector Machine (SVM)
@@ -73,5 +74,7 @@ Requirements
 
 Author
 Sania Kaleem
+MS Data Science (In Progress)
+GitHub: github.com/saniakaleem
 
 
